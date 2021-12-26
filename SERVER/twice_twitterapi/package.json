@@ -1,0 +1,9 @@
+{
+  "name": "twice_schdule_twitter_stream",
+  "version": "0.0.1",
+  "description": "twitter",
+  "dependencies": {
+    "twitter": "^1.7.0",
+    "unirest": "^0.5.1"
+  }
+}
